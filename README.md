@@ -1,1 +1,1 @@
-# js
+oi, aqui to só anotando meu aprendizado em java script :)
